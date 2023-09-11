@@ -1,4 +1,39 @@
-.holder {
-    height: 200px;
-    border: 1px solid black;
+/* #landing {
+    background: url("images/banner.jpg") no-repeat center center;
+    background-size: cover;
+    min-height: 100vh;
+    min-width: 100vw;
+} */
+
+.navbar-custom {
+    background-color: rgb(20, 100, 125);
+}
+
+.small-text {
+    font-size: 0.875em;
+}
+
+#featured-image {
+    height: 60vh;
+    background-color: rgb(69, 227, 255);
+    background: url("images/feature-image.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#feature-text {
+    color: white;
+    font-weight: 900;
+    font-size: 3em;
+    max-width: 40vw;
+    line-height: 90%;
+}
+
+#basics {
+    height: 30vh;
+    background-color: rgb(29, 29, 29);
+    color: white;
+}
+
+#basics img {
+    height: 25vh
 }
